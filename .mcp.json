@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "postnitro": {
+      "type": "http",
+      "url": "https://mcp.postnitro.ai/mcp",
+      "headers": {
+        "Authorization": "Bearer ${POSTNITRO_API_KEY}"
+      }
+    }
+  }
+}

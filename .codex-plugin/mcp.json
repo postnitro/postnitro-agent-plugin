@@ -1,0 +1,8 @@
+{
+  "mcp_servers": {
+    "postnitro": {
+      "url": "https://mcp.postnitro.ai/mcp",
+      "bearer_token_env_var": "POSTNITRO_API_KEY"
+    }
+  }
+}

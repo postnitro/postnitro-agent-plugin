@@ -1,0 +1,19 @@
+{
+  "name": "postnitro-agent",
+  "owner": {
+    "name": "Muneeb Awan",
+    "email": "muneeb@postnitro.ai"
+  },
+  "metadata": {
+    "description": "Create on-brand social carousels and schedule them across LinkedIn, Instagram, TikTok, and Threads.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "postnitro",
+      "description": "Create on-brand social media carousels, image posts, and short videos, and schedule them to LinkedIn, Instagram, TikTok, and Threads — generate from a topic, article, or X thread, or import your own slides. Scriptable from the CLI.",
+      "source": "./",
+      "strict": false
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "postnitro",
+  "version": "1.0.0",
+  "description": "Create on-brand social media carousels, image posts, and short videos, and schedule them to LinkedIn, Instagram, TikTok, and Threads — generate from a topic, article, or X thread, or import your own slides.",
+  "author": {
+    "name": "Muneeb Awan",
+    "email": "muneeb@postnitro.ai",
+    "url": "https://postnitro.ai"
+  },
+  "homepage": "https://postnitro.ai",
+  "repository": "https://github.com/postnitro/postnitro-agent-plugin",
+  "license": "MIT",
+  "keywords": ["postnitro", "carousel", "social-media", "scheduling", "linkedin", "instagram", "tiktok", "threads"],
+  "skills": "./skills/",
+  "mcpServers": "./.codex-plugin/mcp.json"
+}
