@@ -5,7 +5,7 @@
       "type": "streamable-http",
       "url": "https://mcp.postnitro.ai/mcp",
       "headers": {
-        "Authorization": "Bearer pn-your-api-key-here"
+        "Authorization": "Bearer ${POSTNITRO_API_KEY}"
       }
     }
   }
